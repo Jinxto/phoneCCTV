@@ -1,0 +1,110 @@
+Manifest-Version: 1.0
+Built-By: chan
+Build-Jdk: 17.0.3
+Class-Path: javacv-platform-1.5.7.jar javacv-1.5.7.jar openblas-0.3.19-1
+ .5.7.jar flycapture-2.13.3.31-1.5.7.jar libdc1394-2.2.6-1.5.7.jar libfr
+ eenect-0.5.7-1.5.7.jar libfreenect2-0.2.0-1.5.7.jar librealsense-1.12.4
+ -1.5.7.jar librealsense2-2.50.0-1.5.7.jar videoinput-0.200-1.5.7.jar ar
+ toolkitplus-2.3.1-1.5.7.jar flandmark-1.07-1.5.7.jar leptonica-1.82.0-1
+ .5.7.jar tesseract-5.0.1-1.5.7.jar openblas-platform-0.3.19-1.5.7.jar o
+ penblas-0.3.19-1.5.7-android-arm.jar openblas-0.3.19-1.5.7-android-arm6
+ 4.jar openblas-0.3.19-1.5.7-android-x86.jar openblas-0.3.19-1.5.7-andro
+ id-x86_64.jar openblas-0.3.19-1.5.7-ios-arm64.jar openblas-0.3.19-1.5.7
+ -ios-x86_64.jar openblas-0.3.19-1.5.7-linux-x86.jar openblas-0.3.19-1.5
+ .7-linux-x86_64.jar openblas-0.3.19-1.5.7-linux-armhf.jar openblas-0.3.
+ 19-1.5.7-linux-arm64.jar openblas-0.3.19-1.5.7-linux-ppc64le.jar openbl
+ as-0.3.19-1.5.7-macosx-arm64.jar openblas-0.3.19-1.5.7-macosx-x86_64.ja
+ r openblas-0.3.19-1.5.7-windows-x86.jar openblas-0.3.19-1.5.7-windows-x
+ 86_64.jar opencv-platform-4.5.5-1.5.7.jar opencv-4.5.5-1.5.7-android-ar
+ m.jar opencv-4.5.5-1.5.7-android-arm64.jar opencv-4.5.5-1.5.7-android-x
+ 86.jar opencv-4.5.5-1.5.7-android-x86_64.jar opencv-4.5.5-1.5.7-ios-arm
+ 64.jar opencv-4.5.5-1.5.7-ios-x86_64.jar opencv-4.5.5-1.5.7-linux-x86.j
+ ar opencv-4.5.5-1.5.7-linux-x86_64.jar opencv-4.5.5-1.5.7-linux-armhf.j
+ ar opencv-4.5.5-1.5.7-linux-arm64.jar opencv-4.5.5-1.5.7-linux-ppc64le.
+ jar opencv-4.5.5-1.5.7-macosx-arm64.jar opencv-4.5.5-1.5.7-macosx-x86_6
+ 4.jar opencv-4.5.5-1.5.7-windows-x86.jar opencv-4.5.5-1.5.7-windows-x86
+ _64.jar ffmpeg-platform-5.0-1.5.7.jar ffmpeg-5.0-1.5.7-android-arm.jar 
+ ffmpeg-5.0-1.5.7-android-arm64.jar ffmpeg-5.0-1.5.7-android-x86.jar ffm
+ peg-5.0-1.5.7-android-x86_64.jar ffmpeg-5.0-1.5.7-linux-x86.jar ffmpeg-
+ 5.0-1.5.7-linux-x86_64.jar ffmpeg-5.0-1.5.7-linux-armhf.jar ffmpeg-5.0-
+ 1.5.7-linux-arm64.jar ffmpeg-5.0-1.5.7-linux-ppc64le.jar ffmpeg-5.0-1.5
+ .7-macosx-arm64.jar ffmpeg-5.0-1.5.7-macosx-x86_64.jar ffmpeg-5.0-1.5.7
+ -windows-x86.jar ffmpeg-5.0-1.5.7-windows-x86_64.jar flycapture-platfor
+ m-2.13.3.31-1.5.7.jar flycapture-2.13.3.31-1.5.7-linux-x86.jar flycaptu
+ re-2.13.3.31-1.5.7-linux-x86_64.jar flycapture-2.13.3.31-1.5.7-linux-ar
+ mhf.jar flycapture-2.13.3.31-1.5.7-linux-arm64.jar flycapture-2.13.3.31
+ -1.5.7-windows-x86.jar flycapture-2.13.3.31-1.5.7-windows-x86_64.jar li
+ bdc1394-platform-2.2.6-1.5.7.jar libdc1394-2.2.6-1.5.7-linux-x86.jar li
+ bdc1394-2.2.6-1.5.7-linux-x86_64.jar libdc1394-2.2.6-1.5.7-linux-armhf.
+ jar libdc1394-2.2.6-1.5.7-linux-arm64.jar libdc1394-2.2.6-1.5.7-linux-p
+ pc64le.jar libdc1394-2.2.6-1.5.7-macosx-x86_64.jar libdc1394-2.2.6-1.5.
+ 7-windows-x86.jar libdc1394-2.2.6-1.5.7-windows-x86_64.jar libfreenect-
+ platform-0.5.7-1.5.7.jar libfreenect-0.5.7-1.5.7-linux-x86.jar libfreen
+ ect-0.5.7-1.5.7-linux-x86_64.jar libfreenect-0.5.7-1.5.7-linux-armhf.ja
+ r libfreenect-0.5.7-1.5.7-linux-arm64.jar libfreenect-0.5.7-1.5.7-linux
+ -ppc64le.jar libfreenect-0.5.7-1.5.7-macosx-x86_64.jar libfreenect-0.5.
+ 7-1.5.7-windows-x86.jar libfreenect-0.5.7-1.5.7-windows-x86_64.jar libf
+ reenect2-platform-0.2.0-1.5.7.jar libfreenect2-0.2.0-1.5.7-linux-x86.ja
+ r libfreenect2-0.2.0-1.5.7-linux-x86_64.jar libfreenect2-0.2.0-1.5.7-ma
+ cosx-x86_64.jar libfreenect2-0.2.0-1.5.7-windows-x86_64.jar librealsens
+ e-platform-1.12.4-1.5.7.jar librealsense-1.12.4-1.5.7-linux-armhf.jar l
+ ibrealsense-1.12.4-1.5.7-linux-arm64.jar librealsense-1.12.4-1.5.7-linu
+ x-x86.jar librealsense-1.12.4-1.5.7-linux-x86_64.jar librealsense-1.12.
+ 4-1.5.7-macosx-x86_64.jar librealsense-1.12.4-1.5.7-windows-x86.jar lib
+ realsense-1.12.4-1.5.7-windows-x86_64.jar librealsense2-platform-2.50.0
+ -1.5.7.jar librealsense2-2.50.0-1.5.7-linux-armhf.jar librealsense2-2.5
+ 0.0-1.5.7-linux-arm64.jar librealsense2-2.50.0-1.5.7-linux-x86.jar libr
+ ealsense2-2.50.0-1.5.7-linux-x86_64.jar librealsense2-2.50.0-1.5.7-maco
+ sx-x86_64.jar librealsense2-2.50.0-1.5.7-windows-x86.jar librealsense2-
+ 2.50.0-1.5.7-windows-x86_64.jar videoinput-platform-0.200-1.5.7.jar vid
+ eoinput-0.200-1.5.7-windows-x86.jar videoinput-0.200-1.5.7-windows-x86_
+ 64.jar artoolkitplus-platform-2.3.1-1.5.7.jar artoolkitplus-2.3.1-1.5.7
+ -android-arm.jar artoolkitplus-2.3.1-1.5.7-android-arm64.jar artoolkitp
+ lus-2.3.1-1.5.7-android-x86.jar artoolkitplus-2.3.1-1.5.7-android-x86_6
+ 4.jar artoolkitplus-2.3.1-1.5.7-linux-x86.jar artoolkitplus-2.3.1-1.5.7
+ -linux-x86_64.jar artoolkitplus-2.3.1-1.5.7-linux-armhf.jar artoolkitpl
+ us-2.3.1-1.5.7-linux-arm64.jar artoolkitplus-2.3.1-1.5.7-linux-ppc64le.
+ jar artoolkitplus-2.3.1-1.5.7-macosx-x86_64.jar artoolkitplus-2.3.1-1.5
+ .7-windows-x86.jar artoolkitplus-2.3.1-1.5.7-windows-x86_64.jar flandma
+ rk-platform-1.07-1.5.7.jar flandmark-1.07-1.5.7-android-arm.jar flandma
+ rk-1.07-1.5.7-android-arm64.jar flandmark-1.07-1.5.7-android-x86.jar fl
+ andmark-1.07-1.5.7-android-x86_64.jar flandmark-1.07-1.5.7-linux-x86.ja
+ r flandmark-1.07-1.5.7-linux-x86_64.jar flandmark-1.07-1.5.7-linux-armh
+ f.jar flandmark-1.07-1.5.7-linux-arm64.jar flandmark-1.07-1.5.7-linux-p
+ pc64le.jar flandmark-1.07-1.5.7-macosx-x86_64.jar flandmark-1.07-1.5.7-
+ windows-x86.jar flandmark-1.07-1.5.7-windows-x86_64.jar leptonica-platf
+ orm-1.82.0-1.5.7.jar leptonica-1.82.0-1.5.7-android-arm.jar leptonica-1
+ .82.0-1.5.7-android-arm64.jar leptonica-1.82.0-1.5.7-android-x86.jar le
+ ptonica-1.82.0-1.5.7-android-x86_64.jar leptonica-1.82.0-1.5.7-linux-x8
+ 6.jar leptonica-1.82.0-1.5.7-linux-x86_64.jar leptonica-1.82.0-1.5.7-li
+ nux-armhf.jar leptonica-1.82.0-1.5.7-linux-arm64.jar leptonica-1.82.0-1
+ .5.7-linux-ppc64le.jar leptonica-1.82.0-1.5.7-macosx-x86_64.jar leptoni
+ ca-1.82.0-1.5.7-windows-x86.jar leptonica-1.82.0-1.5.7-windows-x86_64.j
+ ar tesseract-platform-5.0.1-1.5.7.jar tesseract-5.0.1-1.5.7-android-arm
+ .jar tesseract-5.0.1-1.5.7-android-arm64.jar tesseract-5.0.1-1.5.7-andr
+ oid-x86.jar tesseract-5.0.1-1.5.7-android-x86_64.jar tesseract-5.0.1-1.
+ 5.7-linux-x86.jar tesseract-5.0.1-1.5.7-linux-x86_64.jar tesseract-5.0.
+ 1-1.5.7-linux-armhf.jar tesseract-5.0.1-1.5.7-linux-arm64.jar tesseract
+ -5.0.1-1.5.7-linux-ppc64le.jar tesseract-5.0.1-1.5.7-macosx-x86_64.jar 
+ tesseract-5.0.1-1.5.7-windows-x86.jar tesseract-5.0.1-1.5.7-windows-x86
+ _64.jar opencv-platform-gpu-4.5.5-1.5.7.jar opencv-4.5.5-1.5.7.jar open
+ cv-4.5.5-1.5.7-linux-x86_64-gpu.jar opencv-4.5.5-1.5.7-windows-x86_64-g
+ pu.jar ffmpeg-platform-gpl-5.0-1.5.7.jar javacpp-platform-1.5.7.jar jav
+ acpp-1.5.7-android-arm.jar javacpp-1.5.7-android-arm64.jar javacpp-1.5.
+ 7-android-x86.jar javacpp-1.5.7-android-x86_64.jar javacpp-1.5.7-ios-ar
+ m64.jar javacpp-1.5.7-ios-x86_64.jar javacpp-1.5.7-linux-armhf.jar java
+ cpp-1.5.7-linux-arm64.jar javacpp-1.5.7-linux-ppc64le.jar javacpp-1.5.7
+ -linux-x86.jar javacpp-1.5.7-linux-x86_64.jar javacpp-1.5.7-macosx-arm6
+ 4.jar javacpp-1.5.7-macosx-x86_64.jar javacpp-1.5.7-windows-x86.jar jav
+ acpp-1.5.7-windows-x86_64.jar ffmpeg-5.0-1.5.7.jar ffmpeg-5.0-1.5.7-and
+ roid-arm-gpl.jar ffmpeg-5.0-1.5.7-android-arm64-gpl.jar ffmpeg-5.0-1.5.
+ 7-android-x86-gpl.jar ffmpeg-5.0-1.5.7-android-x86_64-gpl.jar ffmpeg-5.
+ 0-1.5.7-linux-x86-gpl.jar ffmpeg-5.0-1.5.7-linux-x86_64-gpl.jar ffmpeg-
+ 5.0-1.5.7-linux-armhf-gpl.jar ffmpeg-5.0-1.5.7-linux-arm64-gpl.jar ffmp
+ eg-5.0-1.5.7-linux-ppc64le-gpl.jar ffmpeg-5.0-1.5.7-macosx-arm64-gpl.ja
+ r ffmpeg-5.0-1.5.7-macosx-x86_64-gpl.jar ffmpeg-5.0-1.5.7-windows-x86-g
+ pl.jar ffmpeg-5.0-1.5.7-windows-x86_64-gpl.jar javacpp-1.5.7.jar opencv
+ -4.0.1-1.4.4.jar
+Main-Class: com.cctv.App
+Created-By: Maven Integration for Eclipse
+
